@@ -61,4 +61,4 @@ Contributions are what make the open source community such an amazing place to l
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrawsky)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mrawsky)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrawsky%CryptoCracker&count_bg=%230879BA&title_bg=%234E4E4E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrawsky%2FCryptoCracker&count_bg=%230879BA&title_bg=%234E4E4E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
