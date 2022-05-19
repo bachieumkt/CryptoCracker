@@ -20,9 +20,11 @@
   </p>
 </div>
 
+<img src=https://i.ibb.co/VpPjMbH/image.png />
+
 ## Installation
 
-**Required:** Node.js [axios, chalk, clear, figlet, fs, inquirer]
+**Required:** Node.js
 
 Clone Repository
 

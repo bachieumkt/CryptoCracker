@@ -62,7 +62,6 @@ const menu = await inquirer.prompt([
   }
 ]);
 
-printLogo();
 console.log(chalk.green(`Program Started...`));
 
 while (true) {
